@@ -5,7 +5,15 @@
 
 int main(int argc, char *argv[]) {
 	
-	printf("Hello Sookmyung EE!\n");
+	int x;
+	short y;
+	float z;
+	double r;
+	
+	printf("byie of int : %d\n, sizeof(x)");
+	printf("byie of short : %d\n, sizeof(y)");
+	printf("byie of float : %d\n, sizeof(z)");
+	printf("byie of double : %d\n, sizeof(r)");
 	
 	return 0;
 }
